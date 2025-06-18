@@ -1,4 +1,4 @@
-name: conch
+name: mil-eval
 channels:
   - conda-forge
   - defaults
