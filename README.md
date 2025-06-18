@@ -61,7 +61,7 @@ Before running the interface, update the following parameters in `app_example_fi
 - **Path to feature folder:**  
   Replace the placeholder path in the code:
   ```python
-  pancancer_path = "/path/to/your/features/"
+  pancancer = "/path/to/your/features/"
   ```
 
 - **Path to CSV label file:**  
